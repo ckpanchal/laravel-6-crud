@@ -1,4 +1,4 @@
-# laravel-crud
+# laravel-6-crud
 Laravel simple Todo CRUD(Create, Read, Update and Delete) application using laravel inbuild authentication. Here is a step by step guide to install it.
 
 ## Setup Guide
